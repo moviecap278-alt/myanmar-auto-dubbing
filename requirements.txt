@@ -1,0 +1,8 @@
+
+streamlit
+edge-tts
+openai-whisper
+deep-translator
+moviepy==1.0.3
+imageio-ffmpeg
+nest-asyncio
