@@ -92,4 +92,4 @@ if uploaded:
                     final_video.close()
                     video.close()
 
-            except Exception as
+            except Exception as e:
